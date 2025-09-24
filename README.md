@@ -6,7 +6,7 @@ Este é um projeto de uma landing page responsiva para uma clínica odontológic
 
 A página foi estruturada como uma "Single Page Application" (SPA) estática, onde a navegação entre as seções ocorre de forma fluida na mesma página. O design é limpo e profissional, focado em proporcionar uma excelente experiência de usuário (UX) tanto em desktops quanto em dispositivos móveis.
 
-### 🚀 [Link para o Projeto (Substituir)](https://seu-usuario.github.io/seu-repositorio/)
+### 🚀 [Link para o Projeto (Substituir)](https://rmotadev.github.io/OdontoModelo/)
 
 ---
 
